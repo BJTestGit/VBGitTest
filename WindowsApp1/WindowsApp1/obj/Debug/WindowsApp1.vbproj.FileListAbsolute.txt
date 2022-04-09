@@ -1,0 +1,13 @@
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmWait.resources
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,11 @@
+D:\Git_WorkArea\GameBeginner\Primes\bin\Debug\net5.0\Primes.deps.json
+D:\Git_WorkArea\GameBeginner\Primes\bin\Debug\net5.0\Primes.dll
+D:\Git_WorkArea\GameBeginner\Primes\bin\Debug\net5.0\ref\Primes.dll
+D:\Git_WorkArea\GameBeginner\Primes\bin\Debug\net5.0\Primes.pdb
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.AssemblyInfoInputs.cache
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.AssemblyInfo.vb
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.vbproj.CoreCompileInputs.cache
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.dll
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\ref\Primes.dll
+D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.pdb
