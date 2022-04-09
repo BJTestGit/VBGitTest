@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git_WorkArea\\GameBeginner\\BJTEST\\BJTEST.vbproj": {}
+    "D:\\BJGitTest\\BJTestGit\\VBGitTest\\BJTEST\\BJTEST.vbproj": {}
   },
   "projects": {
-    "D:\\Git_WorkArea\\GameBeginner\\BJTEST\\BJTEST.vbproj": {
+    "D:\\BJGitTest\\BJTestGit\\VBGitTest\\BJTEST\\BJTEST.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git_WorkArea\\GameBeginner\\BJTEST\\BJTEST.vbproj",
+        "projectUniqueName": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\BJTEST\\BJTEST.vbproj",
         "projectName": "BJTEST",
-        "projectPath": "D:\\Git_WorkArea\\GameBeginner\\BJTEST\\BJTEST.vbproj",
+        "projectPath": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\BJTEST\\BJTEST.vbproj",
         "packagesPath": "C:\\Users\\bonji\\.nuget\\packages\\",
-        "outputPath": "D:\\Git_WorkArea\\GameBeginner\\BJTEST\\obj\\",
+        "outputPath": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\BJTEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Git_WorkArea\\GameBeginner\\Primes\\Primes.vbproj": {
-                "projectPath": "D:\\Git_WorkArea\\GameBeginner\\Primes\\Primes.vbproj"
+              "D:\\BJGitTest\\BJTestGit\\VBGitTest\\Primes\\Primes.vbproj": {
+                "projectPath": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\Primes\\Primes.vbproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\Git_WorkArea\\GameBeginner\\Primes\\Primes.vbproj": {
+    "D:\\BJGitTest\\BJTestGit\\VBGitTest\\Primes\\Primes.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git_WorkArea\\GameBeginner\\Primes\\Primes.vbproj",
+        "projectUniqueName": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\Primes\\Primes.vbproj",
         "projectName": "Primes",
-        "projectPath": "D:\\Git_WorkArea\\GameBeginner\\Primes\\Primes.vbproj",
+        "projectPath": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\Primes\\Primes.vbproj",
         "packagesPath": "C:\\Users\\bonji\\.nuget\\packages\\",
-        "outputPath": "D:\\Git_WorkArea\\GameBeginner\\Primes\\obj\\",
+        "outputPath": "D:\\BJGitTest\\BJTestGit\\VBGitTest\\Primes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
