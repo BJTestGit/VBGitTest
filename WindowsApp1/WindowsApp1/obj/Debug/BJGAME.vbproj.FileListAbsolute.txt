@@ -22,3 +22,15 @@ D:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\BJGAME.vbproj.Cor
 D:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
 D:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 D:\Git_WorkArea\GameBeginner\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\BJGAME.vbproj.AssemblyReference.cache
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmMain.resources
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\BJGAME.vbproj.GenerateResource.cache
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\BJGAME.vbproj.CoreCompileInputs.cache
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\BJGitTest\BJTestGit\VBGitTest\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

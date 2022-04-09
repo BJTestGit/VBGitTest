@@ -9,3 +9,15 @@ D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.vbproj.CoreCompileIn
 D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.dll
 D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\ref\Primes.dll
 D:\Git_WorkArea\GameBeginner\Primes\obj\Debug\net5.0\Primes.pdb
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\bin\Debug\net5.0\Primes.deps.json
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\bin\Debug\net5.0\Primes.dll
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\bin\Debug\net5.0\ref\Primes.dll
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\bin\Debug\net5.0\Primes.pdb
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.vbproj.AssemblyReference.cache
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.GeneratedMSBuildEditorConfig.editorconfig
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.AssemblyInfoInputs.cache
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.AssemblyInfo.vb
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.vbproj.CoreCompileInputs.cache
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.dll
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\ref\Primes.dll
+D:\BJGitTest\BJTestGit\VBGitTest\Primes\obj\Debug\net5.0\Primes.pdb
