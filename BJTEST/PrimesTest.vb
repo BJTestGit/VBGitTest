@@ -28,6 +28,28 @@ Namespace BJTEST
 
         End Sub
 
+
+        <TestMethod>
+        Public Sub TestExhaustive()
+
+            For i As Integer = 2 To 500
+                VerifyPrimeList(Primes.PrimeGenerator.GeneratePrimeNumbers(i))
+            Next
+
+        End Sub
+
+        Private Sub VerifyPrimeList(ByVal list() As Integer)
+            For i As Integer = 0 To list.Length - 1
+                VerifyPrime(list(i))
+            Next
+        End Sub
+
+        Private Sub VerifyPrime(ByVal n As Integer)
+            For factor As Integer = 2 To n - 1
+                Assert.IsTrue(n Mod factor <> 0)
+            Next
+        End Sub
+
     End Class
 End Namespace
 

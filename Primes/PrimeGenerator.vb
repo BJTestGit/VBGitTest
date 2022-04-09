@@ -43,7 +43,7 @@ Public Class PrimeGenerator
 
         ' 過濾 -數值的倍數一定不是質數
         Dim i, j As Integer
-        Dim iterationLimit As Double = Math.Sqrt(limitNumber)
+        Dim iterationLimit As Double = Math.Sqrt(limitNumber) + 1
         For i = 2 To iterationLimit
             If arrNumberIsPrime(i) Then
                 For j = i * 2 To limitNumber Step +i
